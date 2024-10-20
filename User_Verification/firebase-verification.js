@@ -1,4 +1,4 @@
-
+// Your web app's Firebase configuration (Replace with your own config object)
 const firebaseConfig = {
     apiKey: "AIzaSyAwugzNuCwCR32jNxaKvrij-8q8_CvbxB0",
     authDomain: "newsify-62188.firebaseapp.com",
