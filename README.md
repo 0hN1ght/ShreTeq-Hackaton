@@ -1,3 +1,5 @@
+NOTICE:- DO NOT USE THIS REPOSITORY USE https://github.com/Chetanya507/ShreTeq-Hackaton AS THIS HAS A PROBLEM SO WE WERE NOT ABLE TO UPLOAD ANY FILES ON THE LAST DAY
+
 Newsify
 
 Description:- This platform brings and verifys news from various articles, it also allows users to upload their own news for verification by our algorithm
@@ -11,7 +13,7 @@ How it works:-
 3) Check/Verify your own news:- Allows user to upload their own news anonyumously for checking by our algorithm
 Installation/Setup:-
 
-Download this repository from GitHub (https://github.com/0hN1ght/ShreTeq-Hackaton)
+Download this repository from GitHub (https://github.com/Chetanya507/ShreTeq-Hackaton)
 
 Requirements- NodeJS, ReactJS (installation)
 
