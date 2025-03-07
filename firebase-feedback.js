@@ -1,14 +1,3 @@
-// Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyAwugzNuCwCR32jNxaKvrij-8q8_CvbxB0",
-  authDomain: "newsify-62188.firebaseapp.com",
-  databaseURL: "https://newsify-62188-default-rtdb.firebaseio.com",
-  projectId: "newsify-62188",
-  storageBucket: "newsify-62188.appspot.com",
-  messagingSenderId: "935168986533",
-  appId: "1:935168986533:web:f3631ecb1cd8555ccc2c4c",
-  measurementId: "G-MX072QX321"
-};
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
